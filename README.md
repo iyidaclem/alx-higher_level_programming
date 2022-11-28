@@ -9,3 +9,10 @@ Module of High-level programming and Python, carried out during Full Stack Softw
 --MySQLdb, version 1.3.10
 --sqlalchemy, version 1.2.5
 --Tested on Ubuntu 20.04 LTS
+
+# Projects
+All of the following folders are projects done during the studies:
+| Project name | Description |
+| ------------ | ----------- |
+| [`0x00-python-hello_world`](0x00-python-hello_world) | Python - Hello, World |
+
