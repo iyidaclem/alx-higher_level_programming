@@ -24,3 +24,6 @@ print alphabets lowercase
 
 ## [`3-print_alphabt.py`](3-print_alphabt.py)
 Print lowercase except e and q
+
+## [`4-print_hexa.py`](4-print_hexa.py)
+print asci values 0 - 98 in decimals and hex
