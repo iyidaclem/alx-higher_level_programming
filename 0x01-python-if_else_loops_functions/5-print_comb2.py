@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-print("00", end='')
-for x in range(1, 100):
-    print(", {:02}".format(x), end='')
-print("")
+for x in range(0, 100):
+    if (x == 99):
+        print(", 99")
+    else:
+        print("{:02}".format(x), end=', ')
