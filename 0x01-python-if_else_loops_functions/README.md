@@ -21,3 +21,6 @@ Print last digit of random generated number
 
 ## [`2-print_alphabet.py`](2-print_alphabet.py)
 print alphabets lowercase
+
+## [`3-print_alphabt.py`](3-print_alphabt.py)
+Print lowercase except e and q
