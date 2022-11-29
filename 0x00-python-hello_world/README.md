@@ -24,3 +24,12 @@ Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/mast
  You are not allowed to cast the variable number into a string
  Your code must be 3 lines long
  You have to use f-strings [tips](https://alx-intranet.hbtn.io/rltoken/Ju0J8BxkuPX5yKZctyKfsQ)
+
+## [`4-print_float.py`](4-print_float.py)
+Complete the source code in order to print the float stored in the variable number with a precision of 2 digits.
+ You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py)
+ The output of the program should be:
+ Float:, followed by the float with only 2 digits
+ followed by a new line
+ You are not allowed to cast number to string
+ You have to use f-strings
