@@ -15,3 +15,6 @@ This program will assign a random signed number to the variable number each time
  if the number is 0: is zero
  if the number is less than 0: is negative
  followed by a new line
+
+## [`1-last_digit.py`](1-last_digit.py)
+Print last digit of random generated number
