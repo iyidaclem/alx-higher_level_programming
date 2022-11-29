@@ -18,3 +18,6 @@ This program will assign a random signed number to the variable number each time
 
 ## [`1-last_digit.py`](1-last_digit.py)
 Print last digit of random generated number
+
+## [`2-print_alphabet.py`](2-print_alphabet.py)
+print alphabets lowercase
