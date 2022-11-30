@@ -48,3 +48,6 @@ Function to add two numbers
 
 ## [`11-pow.py`](11-pow.py)
 power function (^)
+
+## [`12-fizzbuzz.py`](12-fizzbuzz.py)
+fizzbuzz
