@@ -6,5 +6,5 @@ def uppercase(str):
             upper = chr((num - 97) + 65)
         else:
             upper = x
-            print("{}".format(upper), end="")
+        print("{}".format(upper), end="")
     print("")
