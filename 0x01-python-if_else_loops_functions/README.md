@@ -51,3 +51,6 @@ power function (^)
 
 ## [`12-fizzbuzz.py`](12-fizzbuzz.py)
 fizzbuzz
+
+## [`13-insert_number.c`](13-insert_number.c)
+Insert in sorted linked list
