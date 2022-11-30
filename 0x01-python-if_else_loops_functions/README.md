@@ -30,3 +30,6 @@ print asci values 0 - 98 in decimals and hex
 
 ## [`5-print_comb2.py`](5-print_comb2.py)
 Print padded number
+
+## [`6-print_comb3.py`](6-print_comb3.py)
+number combination
