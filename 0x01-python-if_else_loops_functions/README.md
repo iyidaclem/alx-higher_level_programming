@@ -57,3 +57,6 @@ Insert in sorted linked list
 
 ## [`100-print_tebahpla.py`](100-print_tebahpla.py)
 alternating lowercase and uppercase
+
+## [`101-remove_char_at.py`](101-remove_char_at.py)
+Remove character at a given position
