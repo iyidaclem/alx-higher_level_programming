@@ -54,3 +54,6 @@ fizzbuzz
 
 ## [`13-insert_number.c`](13-insert_number.c)
 Insert in sorted linked list
+
+## [`100-print_tebahpla.py`](100-print_tebahpla.py)
+alternating lowercase and uppercase
