@@ -33,3 +33,6 @@ Print padded number
 
 ## [`6-print_comb3.py`](6-print_comb3.py)
 number combination
+
+## [`7-islower.py`](7-islower.py)
+Check if a character is lower case
