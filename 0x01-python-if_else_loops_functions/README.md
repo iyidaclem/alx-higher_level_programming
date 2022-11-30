@@ -45,3 +45,6 @@ print and return last digit of a number
 
 ## [`10-add.py`](10-add.py)
 Function to add two numbers
+
+## [`11-pow.py`](11-pow.py)
+power function (^)
