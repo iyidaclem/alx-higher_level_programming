@@ -39,3 +39,6 @@ Check if a character is lower case
 
 ## [`8-uppercase.py`](8-uppercase.py)
 convert string to uppercase
+
+## [`9-print_last_digit.py`](9-print_last_digit.py)
+print and return last digit of a number
