@@ -60,3 +60,6 @@ alternating lowercase and uppercase
 
 ## [`101-remove_char_at.py`](101-remove_char_at.py)
 Remove character at a given position
+
+## [`102-magic_calculation.py`](102-magic_calculation.py)
+Magic calculation
