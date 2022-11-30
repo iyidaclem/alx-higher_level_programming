@@ -36,3 +36,6 @@ number combination
 
 ## [`7-islower.py`](7-islower.py)
 Check if a character is lower case
+
+## [`8-uppercase.py`](8-uppercase.py)
+convert string to uppercase
