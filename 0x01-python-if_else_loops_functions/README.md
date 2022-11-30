@@ -42,3 +42,6 @@ convert string to uppercase
 
 ## [`9-print_last_digit.py`](9-print_last_digit.py)
 print and return last digit of a number
+
+## [`10-add.py`](10-add.py)
+Function to add two numbers
