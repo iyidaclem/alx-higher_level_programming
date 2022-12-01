@@ -17,3 +17,6 @@ program that prints the result of the addition of all arguments
 
 ## [`4-hidden_discovery.py`](4-hidden_discovery.py)
 Write a program that prints all the names defined by the compiled module
+
+## [`5-variable_load.py`](5-variable_load.py)
+Import variable from module
