@@ -26,3 +26,10 @@ Build my own calculator!
 
 ## [`101-easy_print.py`](101-easy_print.py)
 Write a program that prints #pythoniscool, followed by a new line, in the standard output.
+
+## [`102-magic_calculation.py`](102-magic_calculation.py)
+magic calculator - bycode
+
+## [`103-fast_alphabet.py`](103-fast_alphabet.py)
+FAST ALPHABET
+
