@@ -8,3 +8,6 @@ Import a simple function from a simple file
 
 ## [`1-calculation.py`](1-calculation.py)
 Calculator module
+
+## [`2-args.py`](2-args.py)
+print commandline arguments
