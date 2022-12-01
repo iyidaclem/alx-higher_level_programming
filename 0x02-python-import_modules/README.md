@@ -20,3 +20,6 @@ Write a program that prints all the names defined by the compiled module
 
 ## [`5-variable_load.py`](5-variable_load.py)
 Import variable from module
+
+## [`100-my_calculator.py`](100-my_calculator.py)
+Build my own calculator!
