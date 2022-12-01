@@ -11,3 +11,6 @@ Calculator module
 
 ## [`2-args.py`](2-args.py)
 print commandline arguments
+
+## [`3-infinite_add.py`](3-infinite_add.py)
+program that prints the result of the addition of all arguments
