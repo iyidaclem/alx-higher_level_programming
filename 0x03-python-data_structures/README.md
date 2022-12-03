@@ -18,3 +18,6 @@ print list in reversed order
 
 ## [`4-new_in_list.py`](4-new_in_list.py)
 Replace element in a copy of a list
+
+## [`5-no_c.py`](5-no_c.py)
+Remove all c from string
