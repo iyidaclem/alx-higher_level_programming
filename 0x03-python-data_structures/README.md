@@ -15,3 +15,6 @@ replace element in a list
 
 ## [`3-print_reversed_list_integer.py`](3-print_reversed_list_integer.py)
 print list in reversed order
+
+## [`4-new_in_list.py`](4-new_in_list.py)
+Replace element in a copy of a list
