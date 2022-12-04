@@ -24,3 +24,6 @@ Remove all c from string
 
 ## [`6-print_matrix_integer.py`](6-print_matrix_integer.py)
 Print matrix of integers
+
+## [`7-add_tuple.py`](7-add_tuple.py)
+Addition of tuple
