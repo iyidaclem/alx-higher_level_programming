@@ -30,3 +30,6 @@ Addition of tuple
 
 ## [`8-multiple_returns.py`](8-multiple_returns.py)
 function that returns a tuple with the length of a string and its first character.
+
+## [`9-max_integer.py`](9-max_integer.py)
+function that finds the biggest integer of a list.
