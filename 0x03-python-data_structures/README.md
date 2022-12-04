@@ -21,3 +21,6 @@ Replace element in a copy of a list
 
 ## [`5-no_c.py`](5-no_c.py)
 Remove all c from string
+
+## [`6-print_matrix_integer.py`](6-print_matrix_integer.py)
+Print matrix of integers
