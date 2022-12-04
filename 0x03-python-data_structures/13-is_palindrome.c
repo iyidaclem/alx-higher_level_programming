@@ -7,6 +7,7 @@
  * Return: 0 if there is no cycle,
  * 1 if there is a cycle
  */
+
 int check_cycle(listint_t *list)
 {
 	listint_t *f;
@@ -18,10 +19,9 @@ int check_cycle(listint_t *list)
 	{
 		s = s->next;
 		f = f->next->next;
-		if(s == f)
+		if (s == f)
 			return (1);
- 	}
-
+	}
 	return (0);
 }
 /**
@@ -46,13 +46,15 @@ int is_palindrome(listint_t **head)
 		free(list_vals);
 		return (1);
 	}
+
 	f = *head;
-	for(i = 0; f != NULL; i++)
+
+	for (i = 0; f != NULL; i++)
 	{
 		list_vals[i] = f->n;
 		f = f->next;
 		if (f != NULL)
-		list_vals = realloc(list_vals, sizeof(int) * i+2);
+			list_vals = realloc(list_vals, sizeof(int) * i + 2);
 	}
 	i--;
 	for (j = 0; i > 0; j++, i--)
