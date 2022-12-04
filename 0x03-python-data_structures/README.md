@@ -42,3 +42,6 @@ function that deletes the item at a specific position in a list.
 
 ## [`12-switch.py`](12-switch.py)
 Switch value of two variables
+
+## [`100-print_python_list_info.c`](100-print_python_list_info.c)
+CPython #0: Python lists
