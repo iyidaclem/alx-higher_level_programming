@@ -33,3 +33,6 @@ function that returns a tuple with the length of a string and its first characte
 
 ## [`9-max_integer.py`](9-max_integer.py)
 function that finds the biggest integer of a list.
+
+## [`10-divisible_by_2.py`](10-divisible_by_2.py)
+Find multiples of two in a list
