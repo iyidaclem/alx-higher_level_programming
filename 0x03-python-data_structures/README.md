@@ -36,3 +36,6 @@ function that finds the biggest integer of a list.
 
 ## [`10-divisible_by_2.py`](10-divisible_by_2.py)
 Find multiples of two in a list
+
+## [`11-delete_at.py`](11-delete_at.py)
+function that deletes the item at a specific position in a list.
