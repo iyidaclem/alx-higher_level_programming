@@ -12,3 +12,6 @@ Search and replace element in a list
 
 ## [`2-uniq_add.py`](2-uniq_add.py)
 add unique integers in a list
+
+## [`3-common_elements.py`](3-common_elements.py)
+function that returns a set of common elements in two sets.
