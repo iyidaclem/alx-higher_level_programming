@@ -19,3 +19,6 @@ function that returns a set of all elements present in only one set.
 
 ## [`5-number_keys.py`](5-number_keys.py)
 function that returns the number of keys in a dictionary.
+
+## [`6-print_sorted_dictionary.py`](6-print_sorted_dictionary.py)
+function that prints a dictionary by ordered keys.
