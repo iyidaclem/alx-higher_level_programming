@@ -34,3 +34,6 @@ function that returns a new dictionary with all values multiplied by 2
 
 ## [`10-best_score.py`](10-best_score.py)
 function that returns a key with the biggest integer value.
+
+## [`11-multiply_list_map.py`](11-multiply_list_map.py)
+function that returns a list with all values multiplied by a number without using any loops.
