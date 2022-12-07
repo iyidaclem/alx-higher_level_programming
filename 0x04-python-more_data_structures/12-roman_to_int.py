@@ -18,4 +18,6 @@ def roman_to_int(roman_string):
                 prev = roman_table[j]
         else:
             return 0
+        if total > 3999
+            return 0
     return total
