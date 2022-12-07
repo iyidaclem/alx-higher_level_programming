@@ -25,3 +25,6 @@ function that prints a dictionary by ordered keys.
 
 ## [`7-update_dictionary.py`](7-update_dictionary.py)
 function that replaces or adds key/value in a dictionary.
+
+## [`8-simple_delete.py`](8-simple_delete.py)
+function that deletes a key in a dictionary.
