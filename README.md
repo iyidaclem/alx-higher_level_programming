@@ -19,3 +19,4 @@ All of the following folders are projects done during the studies:
 | [`0x03-python-data_structures`](0x03-python-data_structures) | Python - Data Structures: Lists, Tuples|
 | [`0x02-python-import_modules`](0x02-python-import_modules) | Python - import & modules|
 | [`0x04-python-more_data_structures`](0x04-python-more_data_structures) | Python - More Data Structures: Set, Dictionary|
+| [`0x17-doubly_linked_lists`](0x17-doubly_linked_lists) | C - Doubly linked lists|
