@@ -11,13 +11,13 @@ def roman_to_int(roman_string):
     for j in roman_string:
         if j in roman_table:
             if prev < roman_table[j]:
-                total += roman_table[j] - prev
+                total += roman_table[j] - (prev * 2)
                 prev = roman_table[j]
             else:
                 total += roman_table[j]
                 prev = roman_table[j]
         else:
             return 0
-        if total > 3999
+        if total > 3999:
             return 0
     return total
