@@ -27,3 +27,6 @@ function that divides element by element 2 lists.
 
 ## [`5-raise_exception.py`](5-raise_exception.py)
 raise TypeError
+
+## [`6-raise_exception_msg.py`](6-raise_exception_msg.py)
+function that raises a name exception with a message.
