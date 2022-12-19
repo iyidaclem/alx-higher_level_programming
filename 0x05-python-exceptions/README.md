@@ -30,3 +30,15 @@ raise TypeError
 
 ## [`6-raise_exception_msg.py`](6-raise_exception_msg.py)
 function that raises a name exception with a message.
+
+## [`100-safe_print_integer_err.py`](100-safe_print_integer_err.py)
+prints an intege
+
+## [`101-safe_function.py`](101-safe_function.py)
+function that executes a function safely.
+
+## [`102-magic_calculation.py`](102-magic_calculation.py)
+ByteCode -> Python #4
+
+## [`103-python.c`](103-python.c)
+Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
