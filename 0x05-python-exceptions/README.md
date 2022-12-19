@@ -24,3 +24,6 @@ function that divides 2 integers and prints the result
 
 ## [`4-list_division.py`](4-list_division.py)
 function that divides element by element 2 lists.
+
+## [`5-raise_exception.py`](5-raise_exception.py)
+raise TypeError
