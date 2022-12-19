@@ -3,9 +3,9 @@ def safe_print_division(a, b):
     r = None
     try:
         r = a/b
-        print("Inside result: {}".format(r), end="\n")
     except (ValueError, TypeError, ZeroDivisionError):
-        print("Inside result: {}".format(r), end="\n")
+        pass
     finally:
+        print("Inside result: {}".format(r), end="\n")
         print("{} / {} = {}".format(a, b, r), end="\n")
         return (r)
