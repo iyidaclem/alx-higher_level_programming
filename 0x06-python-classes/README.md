@@ -33,3 +33,6 @@ Class with instance method
 
 ## [`4-square.py`](4-square.py)
 Getter and setters
+
+## [`5-square.py`](5-square.py)
+Print Sqaure
