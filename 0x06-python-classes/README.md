@@ -22,5 +22,8 @@
 - How to use the getattr function
 
 
-## [`1-square.py`](1-square.py)
+## [`0-square.py`](0-square.py)
 create square object
+
+## [`1-square.py`](1-square.py)
+create square class with initialisation
