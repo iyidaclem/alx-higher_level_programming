@@ -30,3 +30,6 @@ create square class with initialisation
 
 ## [`3-square.py`](3-square.py)
 Class with instance method
+
+## [`4-square.py`](4-square.py)
+Getter and setters
