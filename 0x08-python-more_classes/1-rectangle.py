@@ -3,17 +3,14 @@
 
 
 class Rectangle:
-    """Rep a rectangle."""
+    """Represent a rectangle."""
+
     def __init__(self, width=0, height=0):
-        """Initialize new rectange
+        """Inits a new Rectangle.
         Args:
-            width: Width of the rectangle
-            height: height of the rectangle
+            width (int): Width of  new rectangle.
+            height (int): Weight of the new rectangle.
         """
-        if not isinstance(width, int):
-            raise ValueError("width must be an integer")
-        if not isinstance(height, int):
-            raise ValueError("width must be an integer")
         self.width = width
         self.height = height
 
