@@ -20,3 +20,6 @@ How to find memory address of a vairable
 
 ## [`6-answer.txt`](6-answer.txt)
 
+
+## [`7-answer.txt`](7-answer.txt)
+
