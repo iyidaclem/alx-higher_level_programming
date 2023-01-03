@@ -14,3 +14,6 @@ How to find memory address of a vairable
 
 ## [`4-answer.txt`](4-answer.txt)
 
+
+## [`5-answer.txt`](5-answer.txt)
+
