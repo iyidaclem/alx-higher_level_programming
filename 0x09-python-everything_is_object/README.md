@@ -23,3 +23,6 @@ How to find memory address of a vairable
 
 ## [`7-answer.txt`](7-answer.txt)
 
+
+## [`8-answer.txt`](8-answer.txt)
+
