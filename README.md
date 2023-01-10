@@ -25,3 +25,5 @@ All of the following folders are projects done during the studies:
 | [`0x08-python-more_classes`](0x08-python-more_classes) | Python - More Classes and Objects|
 | [`0x09-python-everything_is_object`](0x09-python-everything_is_object) | Python - Everything is object|
 | [`0x0A-python-inheritance`](0x0A-python-inheritance) | Python - Inheritance|
+| [`0x0B-python-input_output`](0x0B-python-input_output) | Python - Input/Output
+Python|
