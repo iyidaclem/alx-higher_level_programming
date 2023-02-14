@@ -33,3 +33,6 @@ Create table and insert multiple rows
 
 ## [`10-top_score.sql`](10-top_score.sql)
 orderby
+
+## [`11-best_score.sql`](11-best_score.sql)
+Select where score >= 10
