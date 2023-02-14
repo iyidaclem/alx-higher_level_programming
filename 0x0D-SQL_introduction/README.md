@@ -9,3 +9,6 @@ Create database 'hbtn_0c_0' if it doesn\'t exist
 
 ## [`2-remove_database.sql`](2-remove_database.sql)
 drop database if not exists
+
+## [`3-list_tables.sql`](3-list_tables.sql)
+list tables in a database
