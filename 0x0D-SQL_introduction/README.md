@@ -21,3 +21,6 @@ show full table description
 
 ## [`6-list_values.sql`](6-list_values.sql)
 Select all from a table
+
+## [`7-insert_value.sql`](7-insert_value.sql)
+Insert into a table
