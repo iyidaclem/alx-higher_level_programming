@@ -39,3 +39,6 @@ Select where score >= 10
 
 ## [`12-no_cheating.sql`](12-no_cheating.sql)
 no cheating
+
+## [`13-change_class.sql`](13-change_class.sql)
+Delete from table
