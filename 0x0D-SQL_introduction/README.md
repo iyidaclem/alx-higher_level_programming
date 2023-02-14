@@ -30,3 +30,6 @@ count column
 
 ## [`9-full_creation.sql`](9-full_creation.sql)
 Create table and insert multiple rows
+
+## [`10-top_score.sql`](10-top_score.sql)
+orderby
