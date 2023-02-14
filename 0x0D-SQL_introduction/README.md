@@ -15,3 +15,6 @@ list tables in a database
 
 ## [`4-first_table.sql`](4-first_table.sql)
 create table if not exists
+
+## [`5-full_table.sql`](5-full_table.sql)
+show full table description
