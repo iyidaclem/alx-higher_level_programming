@@ -51,3 +51,15 @@ Groups
 
 ## [`16-no_links.sql`](16-no_links.sql)
 no links
+
+## [`100-move_to_utf8.sql`](100-move_to_utf8.sql)
+100-move_to_utf8
+
+## [`101-avg_temperatures.sql`](101-avg_temperatures.sql)
+Avarage
+
+## [`102-top_city.sql`](102-top_city.sql)
+city with highest temperature
+
+## [`103-max_state.sql`](103-max_state.sql)
+Maximum temperature of each city
