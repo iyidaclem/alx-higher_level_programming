@@ -42,3 +42,6 @@ no cheating
 
 ## [`13-change_class.sql`](13-change_class.sql)
 Delete from table
+
+## [`14-average.sql`](14-average.sql)
+calculate average
