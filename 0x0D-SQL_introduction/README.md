@@ -36,3 +36,6 @@ orderby
 
 ## [`11-best_score.sql`](11-best_score.sql)
 Select where score >= 10
+
+## [`12-no_cheating.sql`](12-no_cheating.sql)
+no cheating
