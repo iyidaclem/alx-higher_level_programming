@@ -45,3 +45,6 @@ Delete from table
 
 ## [`14-average.sql`](14-average.sql)
 calculate average
+
+## [`15-groups.sql`](15-groups.sql)
+Groups
