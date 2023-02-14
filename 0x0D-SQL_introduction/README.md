@@ -18,3 +18,6 @@ create table if not exists
 
 ## [`5-full_table.sql`](5-full_table.sql)
 show full table description
+
+## [`6-list_values.sql`](6-list_values.sql)
+Select all from a table
