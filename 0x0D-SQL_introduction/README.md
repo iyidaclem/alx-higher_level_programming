@@ -24,3 +24,6 @@ Select all from a table
 
 ## [`7-insert_value.sql`](7-insert_value.sql)
 Insert into a table
+
+## [`8-count_89.sql`](8-count_89.sql)
+count column
