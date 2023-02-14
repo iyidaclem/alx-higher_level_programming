@@ -27,3 +27,6 @@ Insert into a table
 
 ## [`8-count_89.sql`](8-count_89.sql)
 count column
+
+## [`9-full_creation.sql`](9-full_creation.sql)
+Create table and insert multiple rows
