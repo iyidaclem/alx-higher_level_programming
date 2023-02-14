@@ -12,3 +12,6 @@ drop database if not exists
 
 ## [`3-list_tables.sql`](3-list_tables.sql)
 list tables in a database
+
+## [`4-first_table.sql`](4-first_table.sql)
+create table if not exists
