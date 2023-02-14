@@ -48,3 +48,6 @@ calculate average
 
 ## [`15-groups.sql`](15-groups.sql)
 Groups
+
+## [`16-no_links.sql`](16-no_links.sql)
+no links
