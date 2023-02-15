@@ -21,3 +21,6 @@ id must be unique
 
 ## [`6-states.sql`](6-states.sql)
 Create database and create table inside the database
+
+## [`7-cities.sql`](7-cities.sql)
+Create cities
