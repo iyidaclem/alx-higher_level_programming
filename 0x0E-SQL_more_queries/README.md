@@ -27,3 +27,6 @@ Create cities
 
 ## [`8-cities_of_california_subquery.sql`](8-cities_of_california_subquery.sql)
 Cities of california
+
+## [`9-cities_by_state_join.sql`](9-cities_by_state_join.sql)
+join
