@@ -9,3 +9,6 @@ Create mysql user
 
 ## [`2-create_read_user.sql`](2-create_read_user.sql)
 Create database and user and grant SELECT to new user
+
+## [`3-force_name.sql`](3-force_name.sql)
+Create table force_name
