@@ -24,3 +24,6 @@ Create database and create table inside the database
 
 ## [`7-cities.sql`](7-cities.sql)
 Create cities
+
+## [`8-cities_of_california_subquery.sql`](8-cities_of_california_subquery.sql)
+Cities of california
