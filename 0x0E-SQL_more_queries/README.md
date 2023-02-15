@@ -15,3 +15,6 @@ Create table force_name
 
 ## [`4-never_empty.sql`](4-never_empty.sql)
 create a table with id and default value of 1
+
+## [`5-unique_id.sql`](5-unique_id.sql)
+id must be unique
