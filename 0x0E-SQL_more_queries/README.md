@@ -18,3 +18,6 @@ create a table with id and default value of 1
 
 ## [`5-unique_id.sql`](5-unique_id.sql)
 id must be unique
+
+## [`6-states.sql`](6-states.sql)
+Create database and create table inside the database
