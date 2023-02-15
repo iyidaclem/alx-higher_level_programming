@@ -12,3 +12,6 @@ Create database and user and grant SELECT to new user
 
 ## [`3-force_name.sql`](3-force_name.sql)
 Create table force_name
+
+## [`4-never_empty.sql`](4-never_empty.sql)
+create a table with id and default value of 1
