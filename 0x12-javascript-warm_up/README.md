@@ -10,3 +10,4 @@
 | [`6-multi_languages_loop.js`](6-multi_languages_loop.js) | Write a script that prints 3 lines: (like 1-multi_languages.js) but by using an array of string and a loop |
 | [`7-multi_c.js`](7-multi_c.js) | Write a script that prints x times “C is fun” |
 | [`8-square.js`](8-square.js) | Write a script that prints a square |
+| [`9-add.js`](9-add.js) | Write a script that add two numbers |
