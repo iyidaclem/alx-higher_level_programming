@@ -11,3 +11,4 @@
 | [`7-multi_c.js`](7-multi_c.js) | Write a script that prints x times “C is fun” |
 | [`8-square.js`](8-square.js) | Write a script that prints a square |
 | [`9-add.js`](9-add.js) | Write a script that add two numbers |
+| [`10-factorial.js`](10-factorial.js) | Write a script that computes and prints a factorial |
