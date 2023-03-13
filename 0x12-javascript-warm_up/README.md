@@ -6,3 +6,4 @@
 | [`2-arguments.js`](2-arguments.js) | Write a script that prints a message depending of the number of arguments passed |
 | [`3-value_argument.js`](3-value_argument.js) | Write a script that prints the first argument passed to it: |
 | [`4-concat.js`](4-concat.js) | Write a script that prints two arguments passed to it, |
+| [`5-to_integer.js`](5-to_integer.js) | Check if a string is a NaN |
