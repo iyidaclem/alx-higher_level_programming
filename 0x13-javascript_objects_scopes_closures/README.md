@@ -6,3 +6,4 @@
 | [`3-rectangle.js`](3-rectangle.js) | Add print method to Rectangle class |
 | [`4-rectangle.js`](4-rectangle.js) | Rectangle class with rotate and double method |
 | [`5-square.js`](5-square.js) | Square class inheriting from Rectangle |
+| [`6-square.js`](6-square.js) | A square inheritance |
