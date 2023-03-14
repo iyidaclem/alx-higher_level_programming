@@ -11,3 +11,4 @@
 | [`8-esrever.js`](8-esrever.js) | Reverse me |
 | [`9-logme.js`](9-logme.js) | logme |
 | [`10-converter.js`](10-converter.js) | Conversion of base |
+| [`100-map.js`](100-map.js) | Array map |
