@@ -10,3 +10,4 @@
 | [`7-occurrences.js`](7-occurrences.js) | Write a function that returns the number of occurrences in a list: |
 | [`8-esrever.js`](8-esrever.js) | Reverse me |
 | [`9-logme.js`](9-logme.js) | logme |
+| [`10-converter.js`](10-converter.js) | Conversion of base |
