@@ -30,3 +30,4 @@ All of the following folders are projects done during the studies:
 | [`0x0D-SQL_introduction`](0x0D-SQL_introduction) | 0x0D. SQL - Introduction|
 | [`0x0E-SQL_more_queries`](0x0E-SQL_more_queries) | 0x0E. SQL - More queries|
 | [`0x12-javascript-warm_up`](0x12-javascript-warm_up) | Write a script that prints “JavaScript is amazing” |
+| [`0x13-javascript_objects_scopes_closures`](0x13-javascript_objects_scopes_closures) | JavaScript - Objects, Scopes and Closures |
