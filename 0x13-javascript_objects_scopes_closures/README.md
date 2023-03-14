@@ -7,3 +7,4 @@
 | [`4-rectangle.js`](4-rectangle.js) | Rectangle class with rotate and double method |
 | [`5-square.js`](5-square.js) | Square class inheriting from Rectangle |
 | [`6-square.js`](6-square.js) | A square inheritance |
+| [`7-occurrences.js`](7-occurrences.js) | Write a function that returns the number of occurrences in a list: |
