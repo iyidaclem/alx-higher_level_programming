@@ -12,3 +12,4 @@
 | [`8-square.js`](8-square.js) | Write a script that prints a square |
 | [`9-add.js`](9-add.js) | Write a script that add two numbers |
 | [`10-factorial.js`](10-factorial.js) | Write a script that computes and prints a factorial |
+| [`11-second_biggest.js`](11-second_biggest.js) | Write a script that searches the second biggest integer in the list of arguments. |
