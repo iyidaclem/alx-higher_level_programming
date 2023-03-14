@@ -17,3 +17,5 @@
 | [`13-add.js`](13-add.js) | Write a function that returns the addition of 2 integers. |
 | [`100-let_me_const.js`](100-let_me_const.js) | Const or not const |
 | [`101-call_me_moby.js`](101-call_me_moby.js) | Write a function that executes x times a function. |
+| [`102-add_me_maybe.js`](102-add_me_maybe.js) | Add me maybe |
+| [`103-object_fct.js`](103-object_fct.js) | Update this script by adding a new function incr that increments the integer value. |
