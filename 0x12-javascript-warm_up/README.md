@@ -14,3 +14,4 @@
 | [`10-factorial.js`](10-factorial.js) | Write a script that computes and prints a factorial |
 | [`11-second_biggest.js`](11-second_biggest.js) | Write a script that searches the second biggest integer in the list of arguments. |
 | [`12-object.js`](12-object.js) | Update object |
+| [`13-add.js`](13-add.js) | Write a function that returns the addition of 2 integers. |
