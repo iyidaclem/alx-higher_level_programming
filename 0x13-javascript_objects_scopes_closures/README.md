@@ -4,3 +4,4 @@
 | [`1-rectangle.js`](1-rectangle.js) | Write a class Rectangle that defines a rectangle: |
 | [`2-rectangle.js`](2-rectangle.js) | Rectangle #2 |
 | [`3-rectangle.js`](3-rectangle.js) | Add print method to Rectangle class |
+| [`4-rectangle.js`](4-rectangle.js) | Rectangle class with rotate and double method |
