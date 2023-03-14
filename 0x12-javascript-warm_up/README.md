@@ -15,3 +15,4 @@
 | [`11-second_biggest.js`](11-second_biggest.js) | Write a script that searches the second biggest integer in the list of arguments. |
 | [`12-object.js`](12-object.js) | Update object |
 | [`13-add.js`](13-add.js) | Write a function that returns the addition of 2 integers. |
+| [`100-let_me_const.js`](100-let_me_const.js) | Const or not const |
