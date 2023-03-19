@@ -8,3 +8,4 @@ All of the following folders are projects done during the studies:
 | [`1-filter_states.py`](1-filter_states.py) | List all state start with N |
 | [`2-my_filter_states.py`](2-my_filter_states.py) | Filter states by user input |
 | [`3-my_safe_filter_states.py`](3-my_safe_filter_states.py) | safe filter  |
+| [`4-cities_by_state.py`](4-cities_by_state.py) |  Cities by states |
