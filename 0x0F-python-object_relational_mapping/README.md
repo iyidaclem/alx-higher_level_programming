@@ -7,3 +7,4 @@ All of the following folders are projects done during the studies:
 | [`0-select_states.py`](0-select_states.py) | Write a script that lists all states from the database hbtn_0e_0_usa |
 | [`1-filter_states.py`](1-filter_states.py) | List all state start with N |
 | [`2-my_filter_states.py`](2-my_filter_states.py) | Filter states by user input |
+| [`3-my_safe_filter_states.py`](3-my_safe_filter_states.py) | safe filter  |
