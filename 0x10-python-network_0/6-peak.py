@@ -5,7 +5,7 @@
 def find_peak(my_list):
     """Function that finds the peak of a list"""
 
-    if my_list == [] or my_list == None:
+    if my_list == [] or my_list is None:
         return
     first = 0
     last = len(my_list) - 1
