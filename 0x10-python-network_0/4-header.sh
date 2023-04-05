@@ -1,3 +1,3 @@
 #!/bin/bash
-# Display all the allowd HTTP method
+# set custom header
 curl -sL -H "X-School-User-Id: 98" $1
