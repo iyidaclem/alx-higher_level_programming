@@ -33,3 +33,4 @@ All of the following folders are projects done during the studies:
 | [`0x13-javascript_objects_scopes_closures`](0x13-javascript_objects_scopes_closures) | JavaScript - Objects, Scopes and Closures |
 | [`0x0F-python-object_relational_mapping`](0x0F-python-object_relational_mapping) | Python - Object-relational mapping |
 | [`0x10-python-network_0`](0x10-python-network_0) | Python - Network #0 |
+| [`0x11-python-network_1`](0x11-python-network_1) | Python - Network #1 |
